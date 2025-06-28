@@ -38,3 +38,5 @@ https://www.jmpwood.com/products/baluster-shoe-9054bs-square-1-2-square-base-sho
 ![The installed baluster shoe.](images/baluster-shoe.jpeg)
 
 ![The installed balusters](images/installed-balusters.jpeg)
+
+Now, the new balusters are completely installed without any modification to the stairway, and they're completely removable without any tools. The best of both worlds!
