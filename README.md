@@ -15,7 +15,7 @@ In order to fit the square pegs in the round holes, I modeled a socket for each 
 
 ![The bottom socket](images/bottom-socket.png)
 
-![The top socket](images/top-socket.png)
+![The top socket](images/top-socket-flat.png)
 
 On the non-landing portion of the stairs, the top socket had an integrated angle:
 
