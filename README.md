@@ -37,6 +37,8 @@ https://www.jmpwood.com/products/baluster-shoe-9054bs-square-1-2-square-base-sho
 
 ![The installed baluster shoe.](images/baluster-shoe.jpeg)
 
+To install the balusters, you fit the bottom socket into place, slide the shoe onto the bottom of the baluster, and place the top socket on top of the baluster. Angle the baluster, and insert the top into the underside of the railing. Continue pushing up while you position the bottom of the baluster over the bottom socket, and then push the bottom of the baluster down into the socket. Once it's seated, slide the top socket up into the hole, securing everything in place. For this to work, each baluster should be cut to 5/8" longer than the opening between the bottom stair tread and the underside of the railing.
+
 ![The installed balusters](images/installed-balusters.jpeg)
 
 Now, the new balusters are completely installed without any modification to the stairway, and they're completely removable without any tools. The best of both worlds!
