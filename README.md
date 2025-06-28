@@ -21,7 +21,7 @@ On the non-landing portion of the stairs, the top socket had an integrated angle
 
 ![The top socket for angled portions](images/top-socket-angled.png)
 
-![An old baluster hole with and without an installed socket.](images/bottom-holes/jpeg)
+![An old baluster hole with and without an installed socket.](images/bottom-holes.jpeg)
 
 ![The bottom of the baluster set inside the bottom socket.](images/bottom-socket.jpeg)
 
